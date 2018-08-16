@@ -29,7 +29,7 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
-    "is_e2e_test": true
+      "is_e2e_test": true
     },
     "fileMetadata": {},
     "template": [],
