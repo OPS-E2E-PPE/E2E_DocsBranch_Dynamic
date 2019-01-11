@@ -25,7 +25,7 @@
   "dependent_repositories": [
     {
       "path_to_root": "_themes",
-      "url": "https://github.com/openpublish/templates.docs.msft",
+      "url": "https://github.com/microsoft/templates.docs.msft",
       "branch": "master",
       "branch_mapping": {}
     }
