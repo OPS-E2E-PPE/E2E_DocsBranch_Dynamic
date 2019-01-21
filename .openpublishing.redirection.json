@@ -3,6 +3,10 @@
   {
     "source_path":"E2E_DocsBranch_Dynamic/RedirectUrl/AbsoluteUrl.md",
     "redirect_url":"/E2E_DocsBranch_Dynamic/index"
+  },
+    {
+    "source_path":"E2E_DocsBranch_Dynamic/RedirectUrl/EmptyRelativeUrl.md",
+    "redirect_url":""
   }
  ]
 }
