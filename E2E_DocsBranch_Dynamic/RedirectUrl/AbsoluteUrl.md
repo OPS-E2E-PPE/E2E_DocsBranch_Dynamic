@@ -1,4 +1,0 @@
- 
-
-# redirectUrl test - Absolute path
- 
