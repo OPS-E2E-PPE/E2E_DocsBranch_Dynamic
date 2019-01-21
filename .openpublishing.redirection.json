@@ -6,7 +6,7 @@
   },
     {
     "source_path":"E2E_DocsBranch_Dynamic/RedirectUrl/InvalidAbsoluteUrl.md",
-    "redirect_url":http://www.<>{}[]%&","+-:.com/<>{}[]%&"/t
+    "redirect_url":"http://www.<>{}[]%&","+-:.com/<>{}[]%&"/t"
   }
  ]
 }
