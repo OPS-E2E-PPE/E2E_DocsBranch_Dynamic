@@ -1,9 +1,8 @@
 {
   "redirections":[
   {
-    "source_path":"E2E_DocsBranch_Dynamic/index2.md",
-    "redirect_url":"E2E_DocsBranch_Dynamic/redirection",
-    "redirect_document_id":false
+    "source_path":"E2E_DocsBranch_Dynamic/AbsoluteUrl.md",
+    "redirect_url":"https://ppe.docs.microsoft.com/en-us/E2E_DocFxV3/index?branch=redirectAbsoluteUrl"
   }
  ]
 }
