@@ -1,8 +1,8 @@
 {
   "redirections":[
   {
-    "source_path":"E2E_DocsBranch_Dynamic/InvalidAbsoluteUrl.md",
-    "redirect_url":"http://www.<>{}[]%&","+-:.com/<>{}[]%&"/t"
+    "source_path":"E2E_DocsBranch_Dynamic/InvalidRelativeUrl.md",
+    "redirect_url":"test<>{}[]%&","+-:.com/<>{}[]%&"/t"
   }
  ]
 }
