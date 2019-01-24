@@ -33,6 +33,7 @@
     "externalReference": [],
     "fileMetadata": {},
     "template": [],
-    "dest": "E2E_DocsBranch_Dynamic"
+    "dest": "E2E_DocsBranch_Dynamic",
+    "markdownEngineName": "markdig"
   }
 }
