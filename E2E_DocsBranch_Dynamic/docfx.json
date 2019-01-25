@@ -30,7 +30,6 @@
     "globalMetadata": {},
     "fileMetadata": {},
     "template": [],
-    "dest": "E2E_MDBuiltContents",
-    "markdownEngineName": "markdig"
+    "dest": "E2E_MDBuiltContents"
   }
 }
