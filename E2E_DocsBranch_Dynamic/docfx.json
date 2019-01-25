@@ -31,7 +31,6 @@
     "globalMetadata": {},
     "fileMetadata": {},
     "template": [],
-    "dest": "E2E_DocsBranch_Dynamic",
-    "markdownEngineName": "markdig"
+    "dest": "E2E_DocsBranch_Dynamic"
   }
 }
