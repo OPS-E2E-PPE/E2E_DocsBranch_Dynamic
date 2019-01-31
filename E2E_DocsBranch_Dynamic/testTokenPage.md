@@ -1,1 +1,1 @@
-[!INCLUDE[Include a token here](test/e2e_repoconfig_dynamic/testToken.md)]
+[!INCLUDE[Include a token here](test/E2E_RepoConifg_Dynamic/testToken.md)]
