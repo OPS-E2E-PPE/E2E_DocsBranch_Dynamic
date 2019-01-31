@@ -1,1 +1,1 @@
-{"Redirections":[{"source_path":"","redirect_url":"E2E_DocsBranch_Dynamic/redirection"},{"source_path":"","redirect_url":"E2E_DocsBranch_Dynamic/redirection"}]}
+{"Redirections":[{"source_path":"E2E_DocsBranch_Dynamic/testing.yml","redirect_url":"E2E_DocsBranch_Dynamic/redirection"},{"source_path":"E2E_DocsBranch_Dynamic/testing.yml","redirect_url":"E2E_DocsBranch_Dynamic/redirection"}]}
