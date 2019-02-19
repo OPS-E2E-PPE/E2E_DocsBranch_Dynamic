@@ -27,7 +27,7 @@
     {
       "path_to_root": "_themes",
       "url": "https://github.com/Microsoft/templates.docs.msft",
-      "branch": "prtesting-e2e",
+      "branch": "pr-test",
       "branch_mapping": {}
     }
   ],
