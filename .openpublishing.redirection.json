@@ -2,7 +2,7 @@
   "redirections":[
   {
     "source_path":"E2E_DocsBranch_Dynamic/InvalidRelativeUrl.md",
-    "redirect_url":"test<>{}[]%&","+-:.com/<>{}[]%&"
+    "redirect_url":"test<>{}[]%&+-:.com/<>{}[]%&"
   }
  ]
 }
