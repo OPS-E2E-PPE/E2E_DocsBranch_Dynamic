@@ -1,1 +1,1 @@
-{"redirections":[{"source_path":"/E2E_DocsBranch_Dynamic/test.md","redirect_url":"/E2E_DocsBranch_Dynamic/redirection","redirect_document_id":false},{"source_path":"E2E_DocsBranch_Dynamic/test.md","redirect_url":"/E2E_DocsBranch_Dynamic/redirection","redirect_document_id":false}]}
+{"redirections":[{"source_path":"E2E_DocsBranch_Dynamic/index.md","redirect_url":"/E2E_DocsBranch_Dynamic/redirection","redirect_document_id":false},{"source_path":"E2E_DocsBranch_Dynamic/test.md","redirect_url":"/E2E_DocsBranch_Dynamic/redirection","redirect_document_id":false}]}
