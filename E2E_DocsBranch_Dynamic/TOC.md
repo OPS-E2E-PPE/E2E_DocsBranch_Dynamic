@@ -1,1 +1,1 @@
-# [Index](index.yml)
+# [Index](index.md)
