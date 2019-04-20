@@ -1,3 +1,3 @@
 # Fallback art testing
 
-This is the [image](./windows.jpg)
+This is the [image](./fallbackartB.jpg)
