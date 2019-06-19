@@ -4,5 +4,6 @@
 ### [Architecture](standard/microservices-architecture/)
 #### [Operators](visual-basic/language-reference/error-messages/operator-declaration-must-be-one-of.md)
 ##### [Welcome](welcome.md)
-###### [docker](standard/microservices-architecture/container-docker-introduction/docker-defined.md)
+###### [DuplicatedWelcome](welcome.md)
+###### [Docker](standard/microservices-architecture/container-docker-introduction/docker-defined.md)
 ###### [Outside Link Test](https://msdn.microsoft.com/library/azure/dn873976.aspx)
