@@ -3,7 +3,8 @@
     "content": [
       {
         "files": [
-          "**/*.md"
+          "**/*.md",
+          "**/*.yml"
         ],
         "exclude": [
           "**/obj/**",
@@ -28,7 +29,10 @@
     ],
     "overwrite": [],
     "externalReference": [],
-    "globalMetadata": {},
+    "globalMetadata": {
+    "breadcrumb_path": "/E2E_DocsBranch_Dynamic/breadcrumb/toc.json",
+      "extendBreadcrumb": false,
+    },
     "fileMetadata": {},
     "template": [],
     "dest": "E2E_DocsBranch_Dynamic"
