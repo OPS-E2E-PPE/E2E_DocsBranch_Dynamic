@@ -31,7 +31,7 @@
     "externalReference": [],
     "globalMetadata": {
     "breadcrumb_path": "/E2E_DocsBranch_Dynamic/breadcrumb/toc.json",
-      "extendBreadcrumb": false,
+      "extendBreadcrumb": True,
     },
     "fileMetadata": {},
     "template": [],
