@@ -21,7 +21,18 @@
     }
   ],
   "notification_subscribers": [],
-  "branches_to_filter": [],
+  "branches_to_filter": [
+    "prRegressionTest1",
+    "prRegressionTest2",
+    "prRegressionTest3",
+    "prRegressionTest4",
+    "prRegressionTest5",
+    "prRegressionTest6",
+    "prRegressionTest7",
+    "prRegressionTest8",
+    "prRegressionTest9",
+    "prRegressionTest10",
+  ],
   "skip_source_output_uploading": false,
   "need_preview_pull_request": true,
   "dependent_repositories": [
