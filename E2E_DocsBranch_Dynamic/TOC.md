@@ -1,1 +1,3 @@
-# [Index](index.md)
+items:
+  - name: Text
+  - href: index.md
