@@ -4,4 +4,4 @@ title: e2etest
 ---
 
 ### Token reference
-[!INCLUDE[ATA](./token.md)] 
+[!INCLUDE[e2eToken](./includes/token.md)] 
