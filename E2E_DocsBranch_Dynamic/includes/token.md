@@ -1,1 +1,1 @@
-E2E test token
+E2E test token status
