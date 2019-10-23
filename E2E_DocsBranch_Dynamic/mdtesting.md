@@ -1,7 +1,5 @@
 ---
-ms.auth: true
-ms.lang: en
-ms.loc: en-us
-ms.puidhash: test
+locale: zh-cn
+ms.locale: zh-cn
 ---
 # this is a test page
