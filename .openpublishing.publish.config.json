@@ -31,7 +31,7 @@
     "prRegressionTest7",
     "prRegressionTest8",
     "prRegressionTest9",
-    "prRegressionTest10",
+    "prRegressionTest10"
   ],
   "skip_source_output_uploading": false,
   "need_preview_pull_request": true,
