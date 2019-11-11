@@ -1,6 +1,6 @@
 {
   "Redirections":[
-    {"source_path":"/index.md",
+    {"source_path":"E2E_DocsBranch_Dynamic/index.md",
      "redirect_url":"/masterredirection/prtest",
      "redirect_document_id":false
     }
