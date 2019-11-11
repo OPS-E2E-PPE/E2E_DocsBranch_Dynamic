@@ -2,7 +2,7 @@
   "Redirections":[
     {
      "source_path":"E2E_DocsBranch_Dynamic/testing.yml",
-     "redirect_url":"/masterredirection/prtest",
+     "redirect_url":"https://docs.microsoft.com",
      "redirect_document_id":false
     }
   ]
