@@ -1,7 +1,7 @@
 {
   "Redirections":[
-    {"source_path":"/E2E_DocsBranch_Dynamic/testing.md",
-     "redirect_url":"E2E_DocsBranch_Dynamic/redirection",
+    {"source_path":"E2E_DocsBranch_Dynamic/index.md",
+     "redirect_url":"/masterredirection/prtest",
      "redirect_document_id":false
     }
   ]
