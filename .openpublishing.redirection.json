@@ -1,7 +1,7 @@
 {
   "Redirections":[
     {
-     "source_path":"E2E_DocsBranch_Dynamic/redirection.yml",
+     "source_path":"E2E_DocsBranch_Dynamic/ymlpr.yml",
      "redirect_url":"https://docs.microsoft.com",
      "redirect_document_id":false
     }
