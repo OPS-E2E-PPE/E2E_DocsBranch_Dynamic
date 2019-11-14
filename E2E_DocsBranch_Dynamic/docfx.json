@@ -30,7 +30,7 @@
     "externalReference": [],
     "globalMetadata": {
       "feedback_system": "GitHub",
-      "feedback_github_repo": "OPS-E2E-Prod/E2E_DocsBranch_Prod_Dynamic",
+      "feedback_github_repo": "OPS-E2E-PPE/E2E_DocsBranch_Dynamic",
       "feedback_product_url": "https://feedback.azure.com/forums/34192--general-feedback"
     },    
     "fileMetadata": {
@@ -50,6 +50,6 @@
       }
     },
     "template": [],
-    "dest": "E2E_DocsBranch_Prod_Dynamic"
+    "dest": "E2E_DocsBranch_Dynamic"
   }
 }
