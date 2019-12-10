@@ -4,7 +4,7 @@
   "docsets_to_publish": [
     {
       "docset_name": "E2E_DocsBranch_Dynamic",
-      "build_source_folder": "E2E_DocsBranch_Dynamic_Bug142632",
+      "build_source_folder": "Bug142632",
       "build_output_subfolder": "E2E_DocsBranch_Dynamic",
       "locale": "en-us",
       "version": 0,
