@@ -7,6 +7,10 @@
         {
             "source_path": "E2E_DocsBranch_Prod_Dynamic/B.md",
             "redirect_url": "C"
+        },
+        {
+            "source_path": "E2E_DocsBranch_Prod_Dynamic/C.md",
+            "redirect_url": "A"
         }
     ]
 }
