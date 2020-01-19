@@ -1,6 +1,6 @@
 ---
 title: redirectUrl test - invalid direct_url
-redirect_url: http://www.<>{}[]%&","+-:.com/<>{}[]%&"/t
+redirect_url: test<>{}[]%&","+-:.com/<>{}[]%&"/t
 ---
 
 
