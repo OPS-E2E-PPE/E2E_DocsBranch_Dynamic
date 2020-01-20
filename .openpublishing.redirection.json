@@ -1,7 +1,7 @@
 {
     "redirections": [
         {
-            "source_path": "E2E_DocsBranch_Dynamic/A.md",
+            "source_path": "",
             "redirect_url": "/E2E_DocsBranch_Dynamic/B",
             "redirect_document_id": false
         }
