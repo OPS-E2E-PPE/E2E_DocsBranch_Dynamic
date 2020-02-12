@@ -1,1 +1,4 @@
-# this is a test page 2/12/2020 6:06:55 PM
+---
+locale: zh-cn
+---
+# this is a test page
