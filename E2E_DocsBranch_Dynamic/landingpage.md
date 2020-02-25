@@ -1,5 +1,5 @@
 ---
-layout: LandingPage
+layout: HubPage
 redirect_utl: http://docs.microsoft.com/en-us/
 ---
 
