@@ -5,10 +5,10 @@ title: OPS E2E test
 
 # Verify suggestion reported for code block by triple backticks and are indented
 
-```cssharp
+```csharp
 testing code
         ```
 
-      ```cssharp
+      ```csharp
 testing code
 ```
