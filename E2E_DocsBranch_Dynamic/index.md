@@ -8,7 +8,3 @@ title: OPS E2E test
 ```csharp
 testing code
         ```
-
-      ```csharp
-testing code
-        ```
