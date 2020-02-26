@@ -13,13 +13,8 @@ test1
 
 ## test 2
 
-```nodE
+```R
 test2
 ```
 
-## test 3
-
-```java script
-test3
-```
 
