@@ -1,8 +1,8 @@
 ---
-layout: HubPage
+layout: LandingPage
 ---
  
- # hubpage testing
+ # LandingPage testing
  
 ## code block indented
 
