@@ -3,6 +3,14 @@ author: luyajun0205
 title: OPS E2E test
 ---
 
-# Verify no suggestion reported for inline code		
+# inline testing 1		
 
-inline code 'this is inline code' testing.
+inline code `this is inline code` testing.
+
+# inline testing 2		
+
+inline code ``this is inline code`` testing.
+
+# inline testing 3
+
+inline code ```this is inline code``` testing.
