@@ -3,6 +3,8 @@ title: Code block
 metadata:
     title: Code block
     description: Docs validation - code block.
+    audience: test
+    level: Beginner
 items:   
     - durationInMinutes: 1
       title: Sign in
@@ -14,8 +16,7 @@ items:
         ```
 
         testing unsupported language in yml file 
-        
-items:   
+ 
     - durationInMinutes: 2
       title: testing1
       content: |-
