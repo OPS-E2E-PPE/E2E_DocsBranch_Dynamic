@@ -2,6 +2,11 @@
 title: Create virtual machines with the Azure CLI
 metadata:
     title: Create virtual machines with the Azure CLI
+    
+ ```csharp
+ indenet
+ ```
+       asdgasdg
 items:   
     - durationInMinutes: 1
       title: Sign in
@@ -11,6 +16,19 @@ items:
 
         ```nonexist
         az login
+        ```
+
+        Complete the authentication process by following the steps displayed in your terminal. 
+        
+items:   
+    - durationInMinutes: 2
+      title: Sign in
+      content: |-
+        If you're using a local install of the CLI, you need to sign in before performing
+        any other steps.
+
+        ```csharp
+              az login
         ```
 
         Complete the authentication process by following the steps displayed in your terminal. 
