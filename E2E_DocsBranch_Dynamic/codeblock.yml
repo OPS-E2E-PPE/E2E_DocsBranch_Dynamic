@@ -2,6 +2,7 @@
 title: Code block
 metadata:
     title: Code block
+    description: Docs validation - code block.
 items:   
     - durationInMinutes: 1
       title: Sign in
