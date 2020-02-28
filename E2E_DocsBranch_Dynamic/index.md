@@ -6,7 +6,7 @@ layout: LandingPage
 
 ## test indendent at first sentence
 
-```csharp```
-testing
+this is the testing for inline block ```inline code```
+end
 
 
