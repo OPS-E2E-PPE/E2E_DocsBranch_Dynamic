@@ -1,0 +1,20 @@
+title: Administer flows
+metadata:
+  title: Administer flows | Microsoft Flow
+labUrl: https://docs.microsoft.com
+
+```csharp
+not cloesed
+
+challenge:
+  uid: challenge-uid
+  type: quiz
+items:
+- title: step 1
+  durationInMinutes: 1
+  content: |
+    content ~~for~~ *step* **1**
+- title: step 2
+  durationInMinutes: 8
+  content: |
+    content for step 2
