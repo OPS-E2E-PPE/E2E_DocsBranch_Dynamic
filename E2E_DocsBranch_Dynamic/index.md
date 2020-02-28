@@ -1,12 +1,16 @@
 ---
 layout: LandingPage
+redirect_utl: http://docs.microsoft.com/en-us/
 ---
 
-# Welcome to E2E_DocsBranch_Dynamic!
+# I am LandingPage
 
-## test indendent at first sentence
+## syntax
 
-this is the testing for inline block ```inline code```
-end
+I am pragraph 'I am code' with code.
+
+```
+this is code
+```
 
 
