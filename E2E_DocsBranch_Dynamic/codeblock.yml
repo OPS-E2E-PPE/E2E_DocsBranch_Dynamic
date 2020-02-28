@@ -1,38 +1,27 @@
 ### YamlMime:Tutorial
-title: Create virtual machines with the Azure CLI
+title: Code block
 metadata:
-    title: Create virtual machines with the Azure CLI
-
-
+    title: Code block
 items:   
     - durationInMinutes: 1
       title: Sign in
       content: |-
-        If you're using a local install of the CLI, you need to sign in before performing
-        any other steps.
+        testing unsuppoted language
 
         ```nonexist
         az login
         ```
 
-        Complete the authentication process by following the steps displayed in your terminal. 
+        testing unsupported language in yml file 
         
 items:   
     - durationInMinutes: 2
-      title: Sign in
+      title: testing1
       content: |-
-        If you're using a local install of the CLI, you need to sign in before performing
-        any other steps.
+        testing indented
 
         ```csharp
-              az login
+              indented
         ```
 
-        Complete the authentication process by following the steps displayed in your terminal. 
-
-  
-
-  
-   
-
-   
+        testing indented in yml file
