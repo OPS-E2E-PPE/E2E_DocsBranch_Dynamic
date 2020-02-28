@@ -33,7 +33,7 @@ items:
         If you're using a local install of the CLI, you need to sign in before performing
         any other steps.
 
-        ```azurecli-interactive
+        ```nonexist
         az login
         ```
 
