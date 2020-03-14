@@ -29,10 +29,11 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
-       "author" : "ttt"     
+       "author" : "ttt",
+       "ms.author": "v-sthong"
     },
     "fileMetadata": {
-      "ms.author": "v-sthong"
+      
     },
     "template": [],
     "dest": "E2E_DocsBranch_Dynamic"
