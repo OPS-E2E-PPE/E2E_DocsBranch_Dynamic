@@ -31,7 +31,9 @@
     "globalMetadata": {
        "author" : "ttt"     
     },
-    "fileMetadata": {},
+    "fileMetadata": {
+      "ms.author": "v-sthong"
+    },
     "template": [],
     "dest": "E2E_DocsBranch_Dynamic"
   }
