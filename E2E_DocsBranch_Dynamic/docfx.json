@@ -28,7 +28,9 @@
     ],
     "overwrite": [],
     "externalReference": [],
-    "globalMetadata": {},
+    "globalMetadata": {
+       "author" : "ttt"     
+    },
     "fileMetadata": {},
     "template": [],
     "dest": "E2E_DocsBranch_Dynamic"
