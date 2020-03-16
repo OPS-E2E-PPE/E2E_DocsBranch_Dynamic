@@ -1,8 +1,8 @@
 ---
-author: invalidauthor
+author: staceyhong
 title: OPS E2E test
-ms.author: dakdj
-ms.topic: notinallowList
+ms.author: v-sthong
+ms.topic: sample
 ---
 
 # Welcome to E2E_DocsBranch_Dynamic!
