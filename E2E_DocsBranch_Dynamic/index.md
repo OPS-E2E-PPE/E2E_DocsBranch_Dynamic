@@ -7,6 +7,7 @@ ms.prod: .net
 ms.date: 01/20/2020
 invalidemeta: undefined
 ms.prod: dynamics-365 
+ms.technology:  microsoft-graph
 ---
 
 # Welcome to E2E_DocsBranch_Dynamic!
