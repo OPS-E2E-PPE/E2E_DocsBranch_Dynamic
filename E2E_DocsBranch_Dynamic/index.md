@@ -6,8 +6,8 @@ ms.topic: sample
 ms.prod: .net
 ms.date: 01/20/2020
 invalidemeta: undefined
-ms.prod: .net  
-ms.technology:  [csharp-interactive, dotnet-ncl]
+ms.prod: collaborate 
+ms.technology:  null
 ---
 
 # Welcome to E2E_DocsBranch_Dynamic!
