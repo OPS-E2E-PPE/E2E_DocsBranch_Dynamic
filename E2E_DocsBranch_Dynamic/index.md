@@ -7,7 +7,9 @@ ms.prod: .net
 ms.date: 01/20/2020
 invalidemeta: undefined
 ms.prod: collaborate 
-ms.technology: "  "
+ms.technology: 
+- null
+- "  "
 ---
 
 # Welcome to E2E_DocsBranch_Dynamic!
