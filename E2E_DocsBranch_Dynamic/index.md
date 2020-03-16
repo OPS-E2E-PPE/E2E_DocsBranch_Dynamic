@@ -4,7 +4,8 @@ title: OPS E2E test
 ms.author: v-sthong
 ms.topic: sample
 ms.prod: .net
-ms.date: {"01/20/2020":"invalid"}
+ms.date: 01/20/2020
+invalidemeta: undefined
 ---
 
 # Welcome to E2E_DocsBranch_Dynamic!
