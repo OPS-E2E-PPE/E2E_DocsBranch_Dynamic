@@ -1,5 +1,5 @@
 ---
-  test.ms.topic: article
+  test.ms.topic: article2a
 ---
 # Tue, 26 Mar 2019 03:41:44 GMT
 
