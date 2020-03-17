@@ -29,7 +29,9 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
-       "ms.author": "v-sthong"
+       "ms.author": "v-sthong",
+       "ms.prod": ".net",
+       "title": " in global meta data"
     },
     "fileMetadata": {
       
