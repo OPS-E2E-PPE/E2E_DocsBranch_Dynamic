@@ -15,3 +15,7 @@ testing for not allow language
 ```csharp6
 testing for not allow language
 ```
+# ms.devlang
+```java2
+testing for not allow language
+```
