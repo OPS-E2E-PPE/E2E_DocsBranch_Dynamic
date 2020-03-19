@@ -4,16 +4,9 @@ ms.devlang: azurecliTest2
 ---
 # Tue, 26 Mar 2019 03:41:44 GMT
 
-```CSHARP
+```azurecliTest2
 testing for not allow language
 ```
-```csharp4
+ ```azurecliTest22
 testing for not allow language
 ```
-```csharp44
-testing for not allow language
-```
-```csharp6
-testing for not allow language
-```
-
