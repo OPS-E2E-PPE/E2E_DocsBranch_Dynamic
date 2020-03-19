@@ -2,7 +2,7 @@
 ms.author: hisdocs280
 ms.topic: tutorial3a
 ms.topic: tutorial4ab
-ms.prod: .net23
+ms.prod: .net22
 ms.technology: csharp-interactive
 ms.service: azure-remote-rendering5
 ---
