@@ -1,5 +1,6 @@
 ---
 ms.topic: article2
+ms.devlang: azurecliTest2
 ---
 # Tue, 26 Mar 2019 03:41:44 GMT
 
@@ -15,7 +16,4 @@ testing for not allow language
 ```csharp6
 testing for not allow language
 ```
-# ms.devlang
-```java2
-testing for not allow language
-```
+
