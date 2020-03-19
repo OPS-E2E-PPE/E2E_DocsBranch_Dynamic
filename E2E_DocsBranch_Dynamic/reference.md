@@ -1,6 +1,6 @@
 ---
 ms.topic: retired
-ms.prod: .net
+ms.prod: noProdInAllowList
 title: test page
 ms.date: 03/17/2020
 ms.service: invalid
