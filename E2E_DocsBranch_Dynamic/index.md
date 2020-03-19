@@ -1,14 +1,11 @@
-# Tue, 26 Mar 2019 03:41:44 GMT
+---
+ms.topic: article2
+ms.devlang: azurecliTest2
+---
 
-```csharp4
+```azurecliTest2
 testing for not allow language
 ```
-```csharp5
-testing for not allow language
-```
-```csharp6
-testing for not allow language
-```
-```csharp44
+ ```azurecliTest22
 testing for not allow language
 ```
