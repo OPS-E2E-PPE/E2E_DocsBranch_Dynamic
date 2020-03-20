@@ -1,11 +1,8 @@
 ---
-ms.author: hisdocs279
-ms.topic: tutorial5ab
-ms.prod: .net22
-ms.devlang: mstopicrule
+ms.author: xamadodi2c
+ms.topic: struct4c
+ms.service: azure-remote-rendering9ac
+ms.devlang: vstscli2c
 ---
 # Tue, 26 Mar 2019 03:41:44 GMT
 
-```azurecliTest2
-testing for not allow language
-```
