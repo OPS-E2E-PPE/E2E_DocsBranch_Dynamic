@@ -1,9 +1,8 @@
 ---
-ms.topic: article2
-ms.devlang: azurecliTest2
+ms.topic: article2 
 ---
 
-```azurecliTest2
+```aspx2
 testing for not allow language
 ```
  ```azurecliTest22
