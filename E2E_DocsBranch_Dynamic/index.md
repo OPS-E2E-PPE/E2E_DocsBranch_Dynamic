@@ -1,8 +1,8 @@
 ---
-ms.author: xamadodi2c
-ms.topic: struct4c
-ms.service: azure-remote-rendering9ac
-ms.devlang: vstscli2c
+ms.author: xamadodi2
+ms.topic: struct4
+ms.service: azure-remote-rendering9a
+ms.devlang: vstscli2
 ---
 # Tue, 26 Mar 2019 03:41:44 GMT
 
