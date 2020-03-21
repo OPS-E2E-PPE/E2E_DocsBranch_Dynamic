@@ -2,9 +2,9 @@
 author: invalidGitHubId
 ms.author: notInAllowListNnotavalidmsaccount
 ms.prod: .prodNotInAllowList
-title: true
+title: invalid meta data test
 ms.topic: notinAllowList
-ms.date: 03212020
+ms.date: 03/22-2020
 ---
 
 # InvalidMetaData Testing 
