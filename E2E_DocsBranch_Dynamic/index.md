@@ -1,7 +1,7 @@
 ---
 ms.author: xamadodi2c
 ms.topic: struct4c
-ms.subservice: 6Testc
+ms.service: 3d-data-preparation6Test
 ms.devlang: vstscli2c
 ---
 # Tue, 26 Mar 2019 03:41:44 GMT
