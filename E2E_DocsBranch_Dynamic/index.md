@@ -1,5 +1,5 @@
 ---
-ms.prod: .net25
+ms.prod: .net
 ms.technology: devlang-fsharp25
 ms.devlang: vstscli2
 ---
