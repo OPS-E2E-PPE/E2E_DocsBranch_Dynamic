@@ -1,5 +1,4 @@
 ---
-ms.prod: .net26
 ms.technology: devlang-fsharp26
 ms.devlang: vstscli2
 ---
