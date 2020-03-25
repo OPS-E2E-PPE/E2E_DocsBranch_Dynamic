@@ -1,5 +1,5 @@
 ---
-redirect_url: conceputaltest
+redirect_url: nometa.md
 ---
 
 
