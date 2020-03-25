@@ -29,8 +29,12 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
+        "undefinedkey": "undefinedValue"
     },
     "fileMetadata": {
+       "undefinedkey":{
+        "**/*.md": "undefinedValue"
+      }
       
     },
     "template": [],
