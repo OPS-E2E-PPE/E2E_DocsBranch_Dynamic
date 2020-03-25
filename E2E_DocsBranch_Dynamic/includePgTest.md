@@ -1,13 +1,13 @@
 ---
-ms.topic: retired
-ms.prod: noProdInAllowList
+ms.topic: article
+ms.prod: .net
 title: test page
 ms.date: 03/17/2020
-ms.service: invalid
-ms.component: null
+author: abc
+ms.author: v-sthong
 ---
 
 
 # refer to include page
 
-[warning won't be reported if there is an invalid value in include page](includes/includes-test.md)
+[warning won't be reported if there is an invalid value in include page](includes/nometaInclude.md)
