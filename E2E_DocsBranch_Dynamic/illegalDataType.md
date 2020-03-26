@@ -1,9 +1,9 @@
 ---
 author: 123
-ms.author: false
-ms.prod: false
+ms.author: true
+ms.prod: 456.123
 title: true
-ms.topic: 123.2323
+ms.topic: false
 ms.date: 20200322
 ---
 
