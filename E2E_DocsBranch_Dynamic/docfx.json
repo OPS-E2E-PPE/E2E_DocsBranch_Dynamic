@@ -32,6 +32,7 @@
         "undefinedkey": "undefinedValue",
         "ms.author" : "invalideDefinedInGlobalMetaData",
         "ms.prod" : "definedIngloobalMetadataMsprod"
+        "author" : "invalidAuthorSetInGlobalMetaData"
     },
     "fileMetadata": {
        "undefinedkey":{
