@@ -29,8 +29,20 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
+        "undefinedkey": "undefinedValue",
+        "ms.author" : "invalideDefinedInGlobalMetaData",
+        "ms.prod" : "definedIngloobalMetadataMsprod"
     },
     "fileMetadata": {
+       "undefinedkey":{
+          "**/*.md": "undefinedValue"
+      },
+        "author":{
+          "**/*.md": "notValidDefinedInFileMetaData"
+      },
+      "ms.author":{
+          "**/*.md": "apimpm"
+      }      
       
     },
     "template": [],
