@@ -30,7 +30,8 @@
     "externalReference": [],
     "globalMetadata": {
         "undefinedkey": "undefinedValue",
-        "ms.author" : "invalideDefinedInGlobalMetaData"
+        "ms.author" : "invalideDefinedInGlobalMetaData",
+        "ms.prod" : "definedIngloobalMetadataMsprod"
     },
     "fileMetadata": {
        "undefinedkey":{
@@ -38,8 +39,10 @@
       },
       "author":{
         "**/*.md": "notValidDefinedInFileMetaData"
-      }
-      
+      },
+      "ms.author":{
+        "**/*.md": "apimpm"
+      }      
     },
     "template": [],
     "dest": "E2E_DocsBranch_Dynamic"
