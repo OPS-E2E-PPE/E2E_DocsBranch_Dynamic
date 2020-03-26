@@ -1,5 +1,5 @@
 ---
-Layout: LandingPage
+layout: LandingPage
 ---
 
 # landing Page Testing
