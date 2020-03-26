@@ -35,14 +35,14 @@
     },
     "fileMetadata": {
        "undefinedkey":{
-        "**/*.md": "undefinedValue"
+          "**/*.md": "undefinedValue"
       },
-      "author":{
-        "**/*.md": "notValidDefinedInFileMetaData"
+        "author":{
+          "**/*.md": "notValidDefinedInFileMetaData"
       },
       "ms.author":{
-        "**/*.md": "apimpm"
-      }      
+          "**/*.md": "apimpm"
+      }   
     },
     "template": [],
     "dest": "E2E_DocsBranch_Dynamic"
