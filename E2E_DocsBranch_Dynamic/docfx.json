@@ -39,7 +39,7 @@
           "**/*.md": "undefinedValue"
       },
         "author":{
-          "**/*.md": "notValidDefinedInFileMetaDataAuthor"
+          "**/*.md": "staceyhong"
       },
       "ms.author":{
           "**/*.md": "apimpm"
