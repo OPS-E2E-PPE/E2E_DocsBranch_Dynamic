@@ -1,8 +1,6 @@
 ---
-Layout: HubPage
+layout: HubPage
 ---
 
+# no warning or suggestion in hubpage.
 
-# Hub Page Testing
-
-## No warning or suggestion should be reported.
