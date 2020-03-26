@@ -38,8 +38,8 @@
        "undefinedkey":{
           "**/*.md": "undefinedValue"
       },
-        "ms.prod":{
-          "**/*.md": "notValidDefinedInFileMetaData"
+        "author":{
+          "**/*.md": "notValidDefinedInFileMetaDataAuthor"
       },
       "ms.author":{
           "**/*.md": "apimpm"
