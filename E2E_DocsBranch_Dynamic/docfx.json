@@ -39,11 +39,10 @@
       },
       "author":{
         "**/*.md": "notValidDefinedInFileMetaData"
-      }
+      },
       "ms.author":{
         "**/*.md": "apimpm"
-      }
-      
+      }      
     },
     "template": [],
     "dest": "E2E_DocsBranch_Dynamic"
