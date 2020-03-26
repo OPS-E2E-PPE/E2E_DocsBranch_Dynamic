@@ -1,5 +1,5 @@
 ---
-redirect_url: nometa.md
+redirect_url: nometa
 ---
 
 
