@@ -29,11 +29,15 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
-        "undefinedkey": "undefinedValue"
+        "undefinedkey": "undefinedValue",
+        "ms.author" : "invalideDefinedInGlobalMetaData"
     },
     "fileMetadata": {
        "undefinedkey":{
         "**/*.md": "undefinedValue"
+      },
+      "author":{
+        "**/*.md": "notValidDefinedInFileMetaData"
       }
       
     },
