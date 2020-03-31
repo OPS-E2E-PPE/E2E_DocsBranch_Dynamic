@@ -1,6 +1,4 @@
 {
-  "need_generate_pdf": false,
-  "need_generate_intellisense": false,
   "docsets_to_publish": [
     {
       "docset_name": "E2E_DocsBranch_Dynamic",
@@ -40,5 +38,5 @@
       "template_folder": "_themes.pdf"
     }
   },
-  "need_generate_pdf_url_template": false
+  "need_generate_pdf_url_template": true
 }
