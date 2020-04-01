@@ -46,6 +46,10 @@
       "Publish",
       "Pdf"
     ],
+    "buildpdf-test-0410": [
+      "Publish",
+      "Pdf"
+    ],
     "container-buildpdf-e2e":[
        "Publish",
       "Pdf"
