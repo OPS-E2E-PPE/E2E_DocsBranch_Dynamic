@@ -1,6 +1,4 @@
 {
-  "need_generate_pdf": true,
-  "need_generate_intellisense": false,
   "docsets_to_publish": [
     {
       "docset_name": "E2E_DocsBranch_Dynamic",
