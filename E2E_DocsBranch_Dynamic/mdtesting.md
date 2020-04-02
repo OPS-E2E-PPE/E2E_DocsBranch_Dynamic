@@ -1,4 +1,4 @@
 ---
-original_content_git_url: http://www.bing.com 
+locale: zh-cn
 ---
 # this is a test page
