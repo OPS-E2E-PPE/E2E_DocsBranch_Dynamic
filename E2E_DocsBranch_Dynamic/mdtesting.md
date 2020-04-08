@@ -1,6 +1,5 @@
 ---
-search.ms_sitename: testsitename
-search.ms_product: testproduct
-search.ms_docsetname: testdocsetname
+toc_rel: testtoc.json
+site_name: testsitename
 ---
 # this is a test page
