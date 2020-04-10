@@ -1,11 +1,3 @@
----
-ms.topic: article2
----
-# Tue, 26 Mar 2019 03:41:44 GMT
-
-```aspx2
+# Testing devlang
+```aspx2020_04_10_09_13_44
 testing for not allow language
-```
- ```azurecliTest22c
-testing for not allow language
-```
