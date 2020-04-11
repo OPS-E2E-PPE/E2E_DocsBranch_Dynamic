@@ -1,5 +1,5 @@
 ---
-ms.prod: .net-core-technologies26
+ms.prod: .net2020_04_11_16_02_11
+ms.technology: devlang-fsharp2020_04_11_16_02_11
 ---
-# Tue, 26 Mar 2019 03:41:44 GMT
-
+ # ms.prod testing
