@@ -4,10 +4,10 @@
   - name: Get Started with .NET
     href: standard/get-started.md
     items:
-    - name: .NET Microservices: Architecture for Containerized .NET Applications
+    - name: ".NET Microservices: Architecture for Containerized .NET Applications"
       href: standard/microservices-architecture/
       items:
-      - name: Operator declaration must be one of:  +,-,*,-,-,^, &, Like, Mod, And, Or, Xor, Not, <<, >>, =, <>, <, <=, >, >=, CType, IsTrue, IsFalse    
+      - name: "Operator declaration must be one of:  +,-,*,-,-,^, &, Like, Mod, And, Or, Xor, Not, <<, >>, =, <>, <, <=, >, >=, CType, IsTrue, IsFalse"    
         href: visual-basic/language-reference/error-messages/operator-declaration-must-be-one-of.md
       items:	
         - name: Welcome 
