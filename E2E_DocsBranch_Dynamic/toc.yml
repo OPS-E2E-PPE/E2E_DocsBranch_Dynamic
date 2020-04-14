@@ -9,7 +9,7 @@
       items:
       - name: "Operator declaration must be one of:  +,-,*,-,-,^, &, Like, Mod, And, Or, Xor, Not, <<, >>, =, <>, <, <=, >, >=, CType, IsTrue, IsFalse"    
         href: visual-basic/language-reference/error-messages/operator-declaration-must-be-one-of.md
-      items:	
+        items:	
         - name: Welcome 
           href: welcome.md
           items:
