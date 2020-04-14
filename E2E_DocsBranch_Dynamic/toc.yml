@@ -1,8 +1,8 @@
-metadata:
-  title: metadata in toc yaml file
-  prod: test
 - name: .NET Guide
   href: standard/index.md
+  metadata:
+    title: metadata in toc yaml file
+    prod: test
   items:
   - name: Get Started with .NET
     href: standard/get-started.md
