@@ -1,3 +1,7 @@
 items:
   - name: Text
     href: index.md#invalid
+metadata:
+    title: it is a toc 
+    prod:  .net
+    topic: article
