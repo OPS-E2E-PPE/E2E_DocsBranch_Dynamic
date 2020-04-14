@@ -18,5 +18,3 @@
           items:
           - name: Outside Link Test
             href: https://www.microsoft.com/en-sg/education
-          - name: Outside 404 page
-            href: https://www.microsoft.com/en-sg/404
