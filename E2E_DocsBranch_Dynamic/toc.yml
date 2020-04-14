@@ -8,10 +8,10 @@
       href: standard/microservices-architecture/
       items:
       - name: Operator declaration must be one of:  +,-,*,-,-,^, &, Like, Mod, And, Or, Xor, Not, <<, >>, =, <>, <, <=, >, >=, CType, IsTrue, IsFalse    
-	href: visual-basic/language-reference/error-messages/operator-declaration-must-be-one-of.md
-        items:
-	- name: Welcome     
-	  href: welcome.md
-	  items:
-	  - name: Outside Link Test     
-            href: https://msdn.microsoft.com/library/azure/dn873976.aspx
+        href: visual-basic/language-reference/error-messages/operator-declaration-must-be-one-of.md
+	items:	
+        - name: Welcome 
+          href: welcome.md
+          items:
+          - name: Outside Link Test
+	    href: https://msdn.microsoft.com/library/azure/dn873976.aspx
