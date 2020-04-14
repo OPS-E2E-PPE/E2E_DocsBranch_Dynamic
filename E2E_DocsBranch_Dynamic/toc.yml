@@ -1,20 +1,22 @@
-- name: .NET Guide
+- name: Link to a md file
   href: standard/index.md
   metadata:
     title: metadata in toc yaml file
     prod: test
   items:
-  - name: Get Started with .NET
+  - name: Link to a md file in toc items
     href: standard/get-started.md
     items:
-    - name: ".NET Microservices: Architecture for Containerized .NET Applications"
+    - name: Link to a folder
       href: standard/microservices-architecture/
       items:
-      - name: "Operator declaration must be one of:  +,-,*,-,-,^, &, Like, Mod, And, Or, Xor, Not, <<, >>, =, <>, <, <=, >, >=, CType, IsTrue, IsFalse"    
-        href: visual-basic/language-reference/error-messages/operator-declaration-must-be-one-of.md
+      - name: Link to an invalid md file
+        href: nonexist.md
         items:	
-        - name: Welcome 
-          href: welcome.md
+        - name: Link to an invalid folder
+          href: welcome/
           items:
           - name: Outside Link Test
-            href: https://msdn.microsoft.com/library/azure/dn873976.aspx
+            href: https://www.microsoft.com/en-sg/education
+          - name: Outside 404 page
+            href: https://www.microsoft.com/en-sg/404
