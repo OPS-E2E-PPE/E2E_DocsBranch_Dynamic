@@ -6,15 +6,11 @@
   items:
   - name: Link to a md file in toc items
     href: standard/get-started.md
-    items:
-    - name: Link to a folder
-      href: standard/microservices-architecture/
-      items:
-      - name: Link to an invalid md file
-        href: nonexist.md
-        items:	
-        - name: Link to an invalid folder
-          href: welcome/
-          items:
-          - name: Outside Link Test
-            href: https://www.microsoft.com/en-sg/education
+  - name: Outside Link Test
+    href: https://www.microsoft.com/en-sg/education
+  - name: Link to a folder
+    href: standard/microservices-architecture/
+  - name: Link to an invalid md file
+    href: nonexist.md        
+  - name: Link to an invalid folder
+    href: welcome/
