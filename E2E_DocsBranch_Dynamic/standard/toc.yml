@@ -1,7 +1,5 @@
  - name: Level 1 - standard
-    href: ../yrdy/expressions-mdx.md
+    href: microservices-architecture/
     items:
     - name: Using Cube and Subcube Expressions
-      href: ../test/using-cube-and-subcube-expressions.md
-    - name: Using Dimension Expressions
-      href: ../abc/using-dimension-expressions.md
+      href: index.md
