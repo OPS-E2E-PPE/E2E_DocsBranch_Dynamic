@@ -1,5 +1,6 @@
 - name: Link to a md file
   href: standard/index.md
+  expanded: true
   metadata:
     title: metadata in toc yaml file
     prod: test
