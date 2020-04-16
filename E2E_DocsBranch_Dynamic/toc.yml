@@ -19,5 +19,5 @@
           href: welcome.md
           expanded: true
           itmes:
-          - name: "#5 Link to a toc yml"
+          - name: "#6 Link to a toc yml"
             href: standard/toc.yml
