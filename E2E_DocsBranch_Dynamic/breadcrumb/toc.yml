@@ -1,11 +1,11 @@
 - name: TocTest
-  tocHref: /
-  topicHref: /contextualtoctest/index
+  tocHref: /E2E_DocsBranch_Dynamic/
+  topicHref: /E2E_DocsBranch_Dynamic/contextualtoctest/index
   items:
   - name: Contextual Toc Test
-    tocHref: /
-    topicHref: /contextualtoctest/test
+    tocHref: /E2E_DocsBranch_Dynamic/
+    topicHref: /E2E_DocsBranch_Dynamic/contextualtoctest/test
     items:
     - name: Test Folder
-      tocHref: /
-      topicHref: contextualTocTest/testFolder/index
+      tocHref: /E2E_DocsBranch_Dynamic/
+      topicHref: /E2E_DocsBranch_Dynamic/contextualTocTest/testFolder/index
