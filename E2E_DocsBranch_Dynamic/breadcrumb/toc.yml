@@ -1,11 +1,12 @@
 - name: TocTest
-  tocHref: /contextualtoctest/
+  tocHref: /
   topicHref: /contextualtoctest/index
   items:
   - name: Contextual Toc Test
-    tocHref: /contextualtoctest/
+    tocHref: /
     topicHref: /contextualtoctest/test
-    items:
-    - name: Test Folder
-      tocHref: /contextualTocTest/testFolder/
-      topicHref: /contextualTocTest/testFolder/index
+	items:
+	- name: Test Folder
+	  tocHref: /
+	  topicHref: contextualTocTest/testFolder/index
+	
