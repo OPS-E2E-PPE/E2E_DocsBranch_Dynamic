@@ -20,4 +20,4 @@
           expanded: true
           itmes:
           - name: "#5 Link to a toc yml"
-            href: invalidFolder/
+            href: standard/toc.yml
