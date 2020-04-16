@@ -3,9 +3,9 @@
   topicHref: /E2E_DocsBranch_Dynamic/contextualtoctest/index
   items:
   - name: Contextual Toc Test
-    tocHref: /E2E_DocsBranch_Dynamic/
+    tocHref: /E2E_DocsBranch_Dynamic/contextualtoctest/
     topicHref: /E2E_DocsBranch_Dynamic/contextualtoctest/test
     items:
     - name: Test Folder
-      tocHref: /E2E_DocsBranch_Dynamic/
+      tocHref: /E2E_DocsBranch_Dynamic/contextualTocTest/testFolder/
       topicHref: /E2E_DocsBranch_Dynamic/contextualTocTest/testFolder/index
