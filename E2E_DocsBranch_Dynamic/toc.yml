@@ -1,16 +1,34 @@
 - name: Link to a md file
   href: standard/index.md
+  expanded: true
   metadata:
     title: metadata in toc yaml file
     prod: test
   items:
   - name: Link to a md file in toc items
     href: standard/get-started.md
-  - name: Outside Link Test
-    href: https://www.microsoft.com/en-sg/education
-  - name: Link to a folder
-    href: standard/microservices-architecture/
-  - name: Link to an invalid md file
-    href: nonexist.md        
-  - name: Link to an invalid folder
-    href: welcome/
+    items:
+    - name: Outside Link Test
+      href: https://www.microsoft.com/en-sg/education
+      items:
+      - name: Link to a folder
+        href: standard/microservices-architecture/
+      - name: Link to an invalid md file
+        href: nonexist.md        
+        - name: Link to an invalid folder
+        href: welcome/
+- name: expand default to false
+  href: standard/index.md
+  items:
+  - name: Link to a md file in toc items
+    href: standard/get-started.md
+    items:
+    - name: Outside Link Test
+      href: https://www.microsoft.com/en-sg/education
+      items:
+      - name: Link to a folder
+        href: standard/microservices-architecture/
+      - name: Link to an invalid md file
+        href: nonexist.md        
+        - name: Link to an invalid folder
+        href: welcome/
