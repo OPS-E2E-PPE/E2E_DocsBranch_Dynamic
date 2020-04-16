@@ -5,4 +5,4 @@
     href: standard/get-started.md
     items:
     - name: "#3 link to page same as #2"
-      href: contextualTocTest/
+      href: contextualTocTest/index.md
