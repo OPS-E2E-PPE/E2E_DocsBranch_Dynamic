@@ -1,5 +1,6 @@
  - name: Level 1 - standard
    href: microservices-architecture/
+   expanded: true
    items:
    - name: Using Cube and Subcube Expressions
      href: index.md
