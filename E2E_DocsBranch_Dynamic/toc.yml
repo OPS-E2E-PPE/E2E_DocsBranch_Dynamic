@@ -1,42 +1,42 @@
-- name: #1 Link to a md file
+- name: "#1 Link to a md file"
   href: standard/index.md
   expanded: true
   metadata:
     title: metadata in toc yaml file
     prod: test
   items:
-  - name: #2 Link to a md file in toc items
+  - name: "#2 Link to a md file in toc items"
     href: standard/get-started.md
     items:
-    - name: #3 Outside Link Test
+    - name: "#3 Outside Link Test"
       href: https://www.microsoft.com/en-sg/education
       items:
-      - name: #4 Link to a folder
+      - name: "#4 Link to a folder"
         href: standard/microservices-architecture/
-      - name: #4 Link to an invalid md file
+      - name: "#4 Link to an invalid md file"
         href: nonexist.md  
         items:
-        - name: #5 Link to a valid md file
+        - name: "#5 Link to a valid md file"
           href: welcome.md
-- name: #1 Link to a md file
+- name: "#1 Link to a md file"
   href: standard/index.md  
   metadata:
     title: metadata in toc yaml file
     prod: test
   items:
-  - name: #2 Link to a md file in toc items
+  - name: "#2 Link to a md file in toc items"
     href: standard/get-started.md
     expanded: true
     items:
-    - name: #3 Outside Link Test
+    - name: "#3 Outside Link Test"
       href: https://www.microsoft.com/en-sg/education
       items:
-      - name: #4 Link to a folder
+      - name: "#4 Link to a folder"
         href: standard/microservices-architecture/
-      - name: #4 Link to an invalid md file
+      - name: "#4 Link to an invalid md file"
         href: nonexist.md  
         items:
-        - name: #5 Link to a valid md file
+        - name: "#5 Link to a valid md file"
           href: welcome.md
 - name: expand default to false
   href: standard/index.md
