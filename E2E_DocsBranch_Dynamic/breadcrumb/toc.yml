@@ -5,8 +5,7 @@
   - name: Contextual Toc Test
     tocHref: /
     topicHref: /contextualtoctest/test
-	items:
-	- name: Test Folder
-	  tocHref: /
-	  topicHref: contextualTocTest/testFolder/index
-	
+    items:
+    - name: Test Folder
+      tocHref: /
+      topicHref: contextualTocTest/testFolder/index
