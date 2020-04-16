@@ -4,10 +4,10 @@
   expanded: true
   items:
   - name: "#2 standard toc"
-    href: standard/microservices-architecture
+    href: microservices-architecture/
     items:
     - name: "#3 standard toc"
-      href: standard/microservices-architecture/container-docker-introduction
+      href: microservices-architecture/container-docker-introduction/
       items:
       - name: "#4 standard toc"
         href: index.md
@@ -15,10 +15,10 @@
   expanded: true
   items:
   - name: "#22 standard toc"
-    href: standard/microservices-architecture
+    href: microservices-architecture
     items:
     - name: "#33 standard toc"
-      href: standard/microservices-architecture/container-docker-introduction
+      href:  microservices-architecture/container-docker-introduction
       items:
       - name: "#44 standard toc"
         href: index.md
