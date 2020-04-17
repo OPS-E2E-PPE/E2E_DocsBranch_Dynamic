@@ -1,2 +1,5 @@
 - name: contextualTocTest
   href: index.md?toc=/E2E_DocsBranch_Dynamic/contextualTocTest/toc.json&bc=/E2E_DocsBranch_Dynamic/contextualTocTest/breadcrumb/toc.json
+  items:
+  - name: refer to another folder
+    href: standard/
