@@ -1,7 +1,3 @@
-- name: TocTest
-  tocHref: /E2E_DocsBranch_Dynamic/
-  topicHref: /E2E_DocsBranch_Dynamic/index
-  items:
-  - name: contextualTocTest
-    tocHref: /E2E_DocsBranch_Dynamic/standard/
-    topicHref: /E2E_DocsBranch_Dynamic/contextualTocTest/index
+- name: Docs
+  tocHref: /
+  topicHref: /
