@@ -6,6 +6,6 @@
     tocHref: /E2E_DocsBranch_Dynamic/contextualTocTest/
     topicHref: /E2E_DocsBranch_Dynamic/contextualTocTest/index 
     items:
-    - name: contextualTocTest
+    - name: testFolder
       tocHref: /E2E_DocsBranch_Dynamic/contextualTocTest/testFolder/
       topicHref: /E2E_DocsBranch_Dynamic/contextualTocTest/testFolder/index
