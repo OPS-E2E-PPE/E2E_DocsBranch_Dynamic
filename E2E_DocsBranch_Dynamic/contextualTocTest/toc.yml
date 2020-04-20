@@ -1,5 +1,5 @@
 - name: contextualTocTest
   href: index.md
   items:
-  - name: refer to another folder
-    href: /testFolder/
+  - name: another md file
+    href: test.md
