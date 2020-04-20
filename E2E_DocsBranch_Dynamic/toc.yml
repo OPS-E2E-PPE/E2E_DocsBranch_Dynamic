@@ -1,8 +1,11 @@
 - name: "#1 Link to a md file"
   href: index.md
   items:
-  - name: "#2 Link to a index page"
-    href: standard/get-started.md
+  - name: "#2 Link to a subfolder md page"
+    href: contextualTocTest/test.md
     items:
-    - name: "#3 link to page same as #2"
-      href: contextualTocTest/index.md
+    - name: "#3 link to a subfolder"
+      href: contextualTocTest/testFolder/
+      items:
+      - name: "#4 link to a subfolder index file"
+        href: contextualTocTest/testFolder/index.md
