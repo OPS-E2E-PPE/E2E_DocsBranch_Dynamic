@@ -1,5 +1,5 @@
 - name: "#1 Link to a toc yml file"
-  href: index.md
+  href: contextualTocTest/toc.yml
   items:
   - name: "#2-1 Link to a subfolder md page"
     href: contextualTocTest/test.md
