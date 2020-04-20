@@ -2,6 +2,11 @@
   tocHref: /E2E_DocsBranch_Dynamic/
   topicHref: /E2E_DocsBranch_Dynamic/index
   items:
-  - name: contextualTocTest
+  - name: TocTest - subfolder
     tocHref: /E2E_DocsBranch_Dynamic/contextualTocTest/
     topicHref: /E2E_DocsBranch_Dynamic/contextualTocTest/index
+    items:
+    - name: TocTest - subfolderII
+      tocHref: /E2E_DocsBranch_Dynamic/contextualTocTest/testFolder/
+      topicHref: /E2E_DocsBranch_Dynamic/contextualTocTest/testFolder/index
+    
