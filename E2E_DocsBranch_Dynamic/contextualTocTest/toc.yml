@@ -1,5 +1,5 @@
 - name: contextualTocTest
   href: index.md
   items:
-  - name: another yml file
-    href: testFolder/
+  - name: abc
+    href: abc.md
