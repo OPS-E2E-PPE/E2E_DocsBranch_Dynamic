@@ -6,5 +6,6 @@
   - name: "#2-2 Link to a subfolder"
     href: contextualTocTest/
     items:
-    - name: "#3 link to a subfolder"
-      href: contextualTocTest/testFolder/
+    - name: "#3 link to a toc yml file"
+      href: contextualTocTest/toc.yml
+      
