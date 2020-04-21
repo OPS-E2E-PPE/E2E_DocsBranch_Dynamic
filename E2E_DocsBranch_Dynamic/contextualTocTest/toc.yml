@@ -2,4 +2,4 @@
   href: index.md
   items:
   - name: another yml file
-    href: testFolder/toc.yml
+    href: testFolder/
