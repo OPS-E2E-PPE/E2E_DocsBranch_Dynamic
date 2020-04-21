@@ -8,6 +8,3 @@
     items:
     - name: "#3 link to a subfolder"
       href: contextualTocTest/testFolder/
-      items:
-      - name: "#4 link to a subfolder toc yml file"
-        href: contextualTocTest/toc.yml
