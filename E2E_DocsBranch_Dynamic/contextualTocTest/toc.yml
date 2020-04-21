@@ -1,5 +1,8 @@
-- name: contextualTocTest
-  href: index.md
+- name: test
+  href: test.md
   items:
   - name: abc
     href: abc.md
+    items:
+    - name: index
+      href: index.md
