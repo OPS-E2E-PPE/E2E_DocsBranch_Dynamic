@@ -15,6 +15,6 @@
     href: nonexist.md        
   - name: Link to an invalid folder
     href: welcome/
-    item:
+    items:
     - name: link to a nested toc yml
       href: standard/toc.yml
