@@ -16,5 +16,7 @@
   - name: Link to an invalid folder
     href: welcome/
     items:
+    - name: link to a folder
+      href: standard/
     - name: link to a nested toc yml
       href: standard/toc.yml
