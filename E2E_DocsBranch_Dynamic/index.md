@@ -1,8 +1,4 @@
 ---
-ms.author: xamadodi2
-ms.topic: struct4
-ms.service: active-directory26
-ms.devlang: vstscli2
+ms.topic: article2020_04_21_17_10_22
 ---
-# Tue, 26 Mar 2019 03:41:44 GMT
-
+ # ms.topic testing
