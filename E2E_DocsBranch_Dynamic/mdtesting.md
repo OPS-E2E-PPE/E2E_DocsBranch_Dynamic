@@ -1,4 +1,7 @@
 ---
-document_id: fd5a5fc6-8a22-4bbe-9926-3c9b09fc8341
+ms.auth: true
+ms.lang: en-us
+ms.loc: en-us
+ms.puidhash: test
 ---
 # this is a test page
