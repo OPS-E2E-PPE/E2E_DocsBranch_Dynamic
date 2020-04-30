@@ -1,5 +1,5 @@
 ---
-open_to_contributors: true
-ROBOTS: NOINDEX
+open_to_contributors: fenxu123
+ROBOTS: fenxu123
 ---
-# this is a test page 4/30/2020 7:34:48 PM
+# this is a test page
