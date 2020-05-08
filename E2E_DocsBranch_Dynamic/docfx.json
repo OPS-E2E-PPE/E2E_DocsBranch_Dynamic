@@ -28,7 +28,11 @@
     ],
     "overwrite": [],
     "externalReference": [],
-    "globalMetadata": {},
+    "globalMetadata": 
+    {
+      author: "opse2esa",
+      title: "heading validation test."
+     },
     "fileMetadata": {},
     "template": [],
     "dest": "E2E_DocsBranch_Dynamic"
