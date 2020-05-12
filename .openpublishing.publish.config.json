@@ -7,7 +7,7 @@
       "build_output_subfolder": "E2E_DocsBranch_Dynamic",
       "locale": "en-us",
       "monikers": [],
-      "moniker_ranges": [],
+      "moniker_ranges": [ "< contososerver-2.0", ">= contososerver-2.0 || >= contosoclient-1.0" ],
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
