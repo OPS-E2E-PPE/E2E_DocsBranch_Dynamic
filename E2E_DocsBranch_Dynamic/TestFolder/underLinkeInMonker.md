@@ -1,4 +1,4 @@
-::: moniker range="tfs-2015"
+::: moniker
 ========================
 ::: moniker-end
 
