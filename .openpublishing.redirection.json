@@ -1,0 +1,24 @@
+{
+  "redirections": [
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/deploying/index.md",
+      "redirect_url": "/dotnet/core/deploying/index",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/dependencies.md",
+      "redirect_url": "/dotnet/core/tools/dependencies",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/testfolder/test.md",
+      "redirect_url": "/dotnet/core/tools",
+      "redirect_document_id": true
+    }
+  ]
+}
