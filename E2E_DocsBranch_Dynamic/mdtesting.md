@@ -1,5 +1,5 @@
 ---
 open_to_contributors: true
-ROBOTS: index
+ROBOTS: nofollow
 ---
-# this is a test page 6/1/2020 8:17:46 AM
+# this is a test page 6/1/2020 8:27:10 AM
