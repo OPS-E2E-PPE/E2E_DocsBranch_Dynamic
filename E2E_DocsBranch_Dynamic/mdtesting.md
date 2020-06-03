@@ -1,5 +1,5 @@
 ---
-keywords: metadata, user manual
-ms.translationtype: Human Translation
+keywords: metadata
+ms.translationtype: test
 ---
-# this is a test page 6/3/2020 2:34:07 AM
+# this is a test page
