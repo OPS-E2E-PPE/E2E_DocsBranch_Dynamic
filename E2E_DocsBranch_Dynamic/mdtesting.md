@@ -1,4 +1,5 @@
 ---
-title: this is a test page 123
+toc_rel: testtoc.json
+site_name: testsitename
 ---
 # this is a test page
