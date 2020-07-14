@@ -194,6 +194,7 @@ ___
 # Table Syntax
 ***
 ## 510070-p1
+
  | Tables        | Are           | Cool  |
  | ------------- |:-------------:| -----:|
  | col 3 is      | right-aligned | $1600 |
@@ -201,21 +202,23 @@ ___
  | zebra stripes | are neat      |    $1 |
 
 ## 510072-p3
+
  | Tables        | Are           | Cool  |
  | ------------- |:-------------:| -----:|
  | col 3 is      | right-aligned | $1600 |
-
  | col 2 is      | centered      |   $12 |
  | zebra stripes | are neat      |    $1 |
  
 ## 510073-p3
+
 | Tables        | Are           | Cool  |
-                                | ------------- |:-------------:| -----:|
-            | col 3 is      | right-aligned | $1600 |
-                                            | col 2 is      | centered      |   $12 |
-    | zebra stripes | are neat      |    $1 |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
     
 ## 510074-p2
+
 | Tables        | Are           | Cool  |
 | -------------: |:-------------|:-----:|
 | col 3 is      | right-aligned | $1600 |
@@ -223,6 +226,7 @@ ___
 | zebra stripes | are neat      |    $1 |
 
 ## 510075-p3
+
  | Tables        | Are           | Cool  |
  | ------------- |:-------------:| -----:|
  | col 3 is      | right-aligned | $1600 |
@@ -246,10 +250,12 @@ See my [Index](index.md) page for details
 ## Reference link 
 ### 510079-p1
 This is [Google][id1] reference-style link with no title.
+
 [id1]: http://www.google.com/ 
 
 ### 510080-p3
 This is [Baidu][id] reference-style link.
+
 [id]: http://www.baidu.com/  "Baidu"
 
 # Image Syntax
@@ -267,12 +273,15 @@ This is [Baidu][id] reference-style link.
 ## Reference image
 ### 510086-p3
 ![Image][lalala]
+
 [lalala]: http://pica.nipic.com/2008-01-09/200819134250665_2.jpg
 
 ### 510087-p2
 ![Image][11]
+
 [11]: ./images/test.png
 
 ### 510088-p3
 ![Image][lalala]
+
 [lalala]: http://pica.nipic.com/2008-01-09/200819134250665_2.jpg "test"
