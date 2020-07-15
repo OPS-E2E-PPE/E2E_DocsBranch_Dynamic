@@ -282,6 +282,6 @@ This is [Baidu][id] reference-style link.
 [11]: ./images/test.png
 
 ### 510088-p3
-![Image][lalala]
+![Image][lalala1]
 
 [lalala1]: http://pica.nipic.com/2008-01-09/200819134250665_2.jpg "test"
