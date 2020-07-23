@@ -5,4 +5,4 @@ description: description
 ---
 
 # Welcome to E2E_DocsBranch_Dynamic!
-[!includes][pr-only-true](./includes/test.md))
+[!INCLUDE [pr-only-true](./includes/test.md)]
