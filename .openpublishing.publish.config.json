@@ -39,6 +39,5 @@
       "Pdf"
     ]
   },
-  "include_in_build": true,
   "need_generate_pdf_url_template": true
 }
