@@ -1,7 +1,4 @@
 ---
-ms.auth: true
-ms.lang: en-us
-ms.loc: en-us
-ms.puidhash: test
+original_content_git_url: http://www.bing.com 
 ---
 # this is a test page
