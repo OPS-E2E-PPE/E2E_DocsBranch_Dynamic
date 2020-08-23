@@ -1,5 +1,5 @@
 ---
-ms.prod: .net2020_05_17_12_09_54
-ms.technology: devlang-fsharp2020_05_17_12_09_54
+ms.prod: .net2020_08_24_06_41_56
+ms.technology: devlang-fsharp2020_08_24_06_41_56
 ---
  # ms.prod testing
