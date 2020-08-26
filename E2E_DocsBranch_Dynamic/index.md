@@ -1,4 +1,5 @@
 ---
-ms.devlang: aspx2020_08_26_06_27_01
+ms.service: active-directory2020_08_26_08_16_04
+ms.subservice: app-mgmt2020_08_26_08_16_04
 ---
- # ms.devlang testing
+ # ms.service testing
