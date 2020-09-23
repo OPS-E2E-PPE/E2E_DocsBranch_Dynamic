@@ -1,5 +1,5 @@
 ---
-keywords: metadata
-ms.translationtype: test
+keywords: 
+ms.translationtype: 
 ---
 # this is a test page
