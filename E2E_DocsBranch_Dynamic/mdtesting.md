@@ -1,4 +1,4 @@
 ---
-updated_at: 9/29/2020 4:01:55 AM
+locale: zh-cn
 ---
 # this is a test page
