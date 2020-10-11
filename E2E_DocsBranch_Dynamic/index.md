@@ -1,5 +1,4 @@
 ---
-ms.service: active-directory2020_10_04_00_14_55
-ms.subservice: app-mgmt2020_10_04_00_14_55
+ms.devlang: java2020_10_11_00_04_20
 ---
- # ms.service testing
+ # ms.devlang testing
