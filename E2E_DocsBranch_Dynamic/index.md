@@ -1,5 +1,4 @@
 ---
-ms.service: active-directory2020_10_11_00_13_47
-ms.subservice: app-mgmt2020_10_11_00_13_47
+ms.topic: article2020_10_11_00_19_08
 ---
- # ms.service testing
+ # ms.topic testing
