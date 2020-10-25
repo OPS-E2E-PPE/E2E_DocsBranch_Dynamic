@@ -1,5 +1,4 @@
 ---
-ms.service: active-directory2020_10_21_08_46_40
-ms.subservice: app-mgmt2020_10_21_08_46_40
+ms.author: apimpm2020_10_25_00_03_52
 ---
- # ms.service testing
+ # ms.author testing
