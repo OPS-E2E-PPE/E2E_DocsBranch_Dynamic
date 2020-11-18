@@ -29,7 +29,7 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {},
-    "fileMetadata": {},
+    "fileMetadata": {"api_name":{ "doc/*.md": "test string"}},
     "template": [],
     "dest": "E2E_DocsBranch_Dynamic"
   }
