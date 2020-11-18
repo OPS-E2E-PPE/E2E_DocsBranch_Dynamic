@@ -1,3 +1,3 @@
 # [Invalid](invalid.md)
-## [Test](index.md)
+## [PR comment](index.md)
 
