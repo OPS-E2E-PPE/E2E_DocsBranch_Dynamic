@@ -1,0 +1,11 @@
+### YamlMime:YamlDocument
+documentType: LandingData
+title: Ansible on Azure documentation
+
+sections:
+- title: 5-Minute Quickstarts
+  items: 
+  - type: paragraph
+    text: Install Ansible and use it to create and manage Linux virtual machines in Azure.
+  - type: list
+    style: icon48 
