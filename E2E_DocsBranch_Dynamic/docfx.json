@@ -45,7 +45,7 @@
       },
       "ms.technology": {
         "ai/**/**.md": "vs-ai-tools",
-        "azure/**/**.md": "vs-azure",
+        "azure/**/**.md": "vs-azure-test",
         "code-quality/**/**.md": "vs-ide-code-analysis"
       }
     },
