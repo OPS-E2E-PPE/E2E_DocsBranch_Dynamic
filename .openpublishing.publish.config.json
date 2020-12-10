@@ -1,5 +1,5 @@
 {
-  "docs_build_engine": { "name": "docfx_v2"},
+  "docs_build_engine": { "name": "docfx_v3"},
   "need_generate_intellisense": false,
   "docsets_to_publish": [
     {
